@@ -5,13 +5,13 @@
 - Mobile menu toggle
 - Pill buttons
 - Hero grid
-- Product/browser placeholder visual
+- Product/browser module visual
 - Section header split
 - Feature cards
 - Dark proof band
 - Logo strip
 - Feature deep-dive split band
-- Pricing cards
+- Access-track cards
 - FAQ accordions
 - Contact form
 - Legal text page

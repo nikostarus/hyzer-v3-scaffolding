@@ -1,16 +1,8 @@
-# Hyzer v3 Scaffolding
+# Hyzer v3 Marketing Site
 
-Internal marketing-site scaffold for the Hyzer / July-decision campaign sprint.
+Internal marketing-site workspace for the Hyzer / July-decision campaign sprint.
 
-This is a neutralized, editable, multi-page static scaffold inspired by the observable structure of bask.health. It is not production-ready and is not intended to ship as-is.
-
-## Purpose
-
-Use this as a fast structural starting point for building the Hyzer marketing / landing-page system:
-
-- replace branding, colors, typography, copy, assets, icons, screenshots, testimonials, legal copy, pricing, and claims
-- preserve the useful site architecture: sticky nav, mega menus, platform hero, conversion sections, pricing page, FAQ, route map, and footer
-- move quickly toward a differentiated public marketing page and early-access funnel
+The current branch converts the site into a Hyzer-specific public landing-page direction: July-window positioning, creator/operator early access, sharper visual identity, access-track pages, and claim-safe coming-soon secondary routes.
 
 ## Local Preview
 
@@ -21,12 +13,18 @@ python3 -m http.server 4177
 
 ## Routes
 
-See `docs/sitemap.md` for the scaffolded route map.
+See `docs/sitemap.md` for the route map.
 
-## Replacement Requirements Before Public Use
+## Public-Launch Requirements
 
-See `docs/replacement-map.md`. Replace all placeholder content and verify any healthcare/compliance/fulfillment/payment claims before publishing.
+Before external launch:
+
+- wire the form to a real destination
+- add final logo/brand assets
+- review legal/disclaimer language
+- verify any partner, service, or operational claims before publishing
+- add analytics/tracking
 
 ## Campaign Context
 
-Bask is the reference point because its site communicates the category clearly: telehealth infrastructure, ecommerce/prescribing workflow, fulfillment, payments, patient/provider/admin portals, and enterprise trust. Hyzer v3 should use the scaffold to move faster, but the public output needs its own identity and offer.
+Hyzer is the public messaging, intake, and partner coordination around the July decision-window opportunity. It should not pretend to be the regulated provider.

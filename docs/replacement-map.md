@@ -1,19 +1,23 @@
 # Replacement Map
 
-Before any public use, replace or remove:
+## Replaced in this branch
 
-- HealthOS placeholder brand, mark, favicon, and all names.
-- Every headline/subheadline/body paragraph.
-- All claims about compliance, HIPAA, PCI, prescribing, fulfillment, doctors, pharmacies, and national coverage.
-- Placeholder customer logos/testimonials.
-- Pricing tiers, bullets, CTAs, and FAQ answers.
-- Visual system: colors, type, radii, card treatment, icon language, motion.
-- Any references inspired by Bask navigation/content architecture.
-- Legal pages with attorney-reviewed policies.
+- `Hyzer` draft brand replaced with `Hyzer` across public HTML routes.
+- Homepage copy converted from reference-site category language into July-window campaign/operator/creator launch positioning.
+- Visual identity moved away from soft beige clinic SaaS into a darker, higher-contrast Hyzer launch system.
+- `contact/index.html` converted into early-access role/audience/interest capture.
+- `plans/index.html` converted from access tiers into early-access tracks.
+- Secondary route pages use neutral coming-soon module copy.
+- Influencer/operator outreach angle added at `docs/influencer-outreach-angle.md`.
 
-Structural pieces preserved as editable scaffold:
+## Still required before public launch
 
-- Sticky nav with products/solutions/resources mega menus.
-- Homepage hero, platform overview, card grid, dark social-proof band, feature deep-dive bands, analytics section, footer.
-- Pricing hero, three-tier cards, capability band, FAQ grid, final CTA.
-- All discovered internal routes wired as local pages.
+- Real logo/mark and any final brand assets.
+- Real form handling destination.
+- Legal review of disclaimers, outreach copy, and public claims.
+- Final partner language if Hyzer names any legal, logistics, payment, or regulated partner tracks.
+- Real analytics/tracking plan.
+
+## Claim guardrail
+
+Hyzer is the public messaging, intake, and partner coordination around the opportunity. Hyzer is not positioned as the regulated provider and should not claim to provide regulated services or regulated operations.
